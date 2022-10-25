@@ -1,0 +1,1 @@
+Average of scores: '9.75'

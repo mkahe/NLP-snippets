@@ -14,8 +14,8 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 nltk.download('genesis')
 genesis_ic = wn.ic(genesis, False, 0.0)
 
-#car = wn.synsets('car', 'n')
-#print(car.name())
+car = wn.synsets('car', 'n')
+print(car.name())
 #print(car.definition())
 #print (car.lemmas()[0].count())
 

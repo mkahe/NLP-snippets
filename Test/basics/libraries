@@ -1,0 +1,18 @@
+import math
+
+print(math.floor(3.4))
+
+from random import randint
+
+print(randint(4,10))
+
+import datetime
+
+print(datetime.date.today())
+
+import jdatetime
+
+print(jdatetime.datetime.today())
+
+# IPython
+# Run ipython instead of python3 in terminal. It has way more amazing terminal-based commands
